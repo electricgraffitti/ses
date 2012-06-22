@@ -13,14 +13,14 @@
   <!-- Application Layout -->
   <div id="wrapper">
 
-	  <header>
+    <header>
       <?php require_once("layouts/header.php"); ?>
       <div class="clear"></div>
-	  </header>
-	  
+    </header>
+    
     <div id="content">
-			<?php require_once("views/index.php"); ?>
-			<div class="clear"></div>
+      <?php require_once("views/index.php"); ?>
+      <div class="clear"></div>
     </div>
 
     <footer>
@@ -28,12 +28,12 @@
       <div class="clear"></div>
     </footer>
     <div class="clear"></div>
-	</div>
-	
-	
-	
-	<?php require_once("layouts/scripts.php"); ?>
-	
+  </div>
+  
+  
+  
+  <?php require_once("layouts/scripts.php"); ?>
+  
   <script type="text/javascript" charset="utf-8">
     $(document).ready(function() {
 
