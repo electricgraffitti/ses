@@ -1,0 +1,106 @@
+#mast_header {
+	background-color: #A80303;
+}
+#banner {
+	height: 395px;
+}
+#logo {
+	position: relative;
+	float: left;
+	width: 157px;
+	height: 100px;
+	text-indent: -9999em;
+	background: url(../images/logo.png) 0px 0px no-repeat;
+}
+#main_nav {
+	position: absolute;
+	width: 960px;
+	height:60px;
+	bottom: -60px;
+	left: 0px;
+	z-index: 1;
+}
+#main_nav ul, #main_nav ul li {
+	position: relative;
+	float:left;
+}
+#main_nav ul li {
+	list-style: none;
+	text-align: center;
+	width: 100px;
+}
+#main_nav ul li a {
+	display: block;
+	padding: 5px 10px;
+	margin: 17px 0px;
+	text-decoration: none;
+	color: #444;
+	font-weight: 700;
+	border-left: 1px solid #333;
+	border-right: 1px solid #fff;
+	border-right: 1px solid rgba(0,0,0,0.2);
+	border-left: 1px solid rgba(255,255,255,0.6);
+}
+#main_nav ul li a.first {
+	border-left: none;
+}
+#main_nav ul li a.last {
+	border-right: none;
+}
+#header_phone {
+	position: relative;
+	float: right;
+	padding: 20px;
+	color: white;
+}
+#header_phone span {
+	font-weight: 700;
+	font-size: 26px;
+}
+ul #main_sections, #main_sections li {
+	position: relative;
+	float: left;
+}
+ul#main_sections {
+	margin-top: 95px;
+	border-left: 1px solid #333;
+	border-right: 1px solid #fff;
+	border-left: 1px solid rgba(0,0,0,0.3);
+	border-right: 1px solid rgba(255,255,255,0.3);
+}
+ul#main_sections li {
+	width: 318px;
+	height: 300px;
+	list-style: none;
+	border-right: 1px solid #333;
+	border-left: 1px solid #fff;
+	border-right: 1px solid rgba(0,0,0,0.3);
+	border-left: 1px solid rgba(255,255,255,0.3);
+	text-align: center;
+}
+ul#main_sections li header {
+	font-size: 36px;
+	text-shadow: 0px 2px 2px rgba(0,0,0,0.8);
+}
+ul#main_sections li img {
+	padding: 5px;
+	background: #fff;
+	border: 2px solid #000;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	border-radius: 30px;
+	margin-bottom: 15px;
+	-moz-box-shadow: 0px 0px 10px #000000;
+	-webkit-box-shadow: 0px 0px 10px #000000;
+	box-shadow: 0px 0px 10px #000000;
+}
+ul#main_sections li header, ul#main_sections li p, ul#main_sections li a {
+	color: #fff;
+}
+ul#main_sections li p {
+	padding: 5px 50px;
+}
+
+
+
+

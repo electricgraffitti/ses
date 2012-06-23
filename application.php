@@ -9,26 +9,47 @@
   <?php require_once("layouts/headmeta.php"); ?>
 </head>
 
-<body>
-  <!-- Application Layout -->
-  <div id="wrapper">
+<body id="home">
 
-    <header>
+    <section id="mast_header" class="full_section">
       <?php require_once("layouts/header.php"); ?>
+      <section id="banner" class="red_gradient full_section">
+        <ul id="main_sections" class="content">
+          <li>
+            <img src="public/images/logo.png" alt="">
+            <header class="custom_bold">Some Option</header>
+            <p>Some text about the option that is pretty dang cool.</p>
+            <a href="" title="">Some link to some option</a>
+          </li>
+          <li>
+            <img src="public/images/logo.png" alt="">
+            <header class="custom_bold">Some Option</header>
+            <p>Some text about the option that is pretty dang cool.</p>
+            <a href="" title="">Some link to some option</a>
+          </li>
+          <li>
+            <img src="public/images/logo.png" alt="">
+            <header class="custom_bold">Some Option</header>
+            <p>Some text about the option that is pretty dang cool.</p>
+            <a href="" title="">Some link to some option</a>
+          </li>
+          <div class="clear"></div>
+        </ul>
+      </section>
       <div class="clear"></div>
-    </header>
+    </section>
     
-    <div id="content">
+    <section id="content" class="full_section">
       <?php require_once("views/index.php"); ?>
       <div class="clear"></div>
-    </div>
+    </section>
 
-    <footer>
+    <footer class="full_section">
       <?php require_once("layouts/footer.php"); ?>
       <div class="clear"></div>
     </footer>
     <div class="clear"></div>
-  </div>
+
   
   
   
