@@ -3,10 +3,10 @@
   <nav id="main_nav" class="silver_gradient round shadow">
     <ul>
       <li>
-        <a href="#" class="custom_bold">Link 1</a>
+        <a href="application.php" class="custom_bold">Link 1</a>
       </li>
       <li>
-        <a href="#" class="custom_bold">Link 2</a>
+        <a href="internal.php" class="custom_bold">Link 2</a>
       </li>
       <li>
         <a href="#" class="custom_bold">Link 3</a>

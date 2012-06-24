@@ -9,33 +9,10 @@
   <?php require_once("layouts/headmeta.php"); ?>
 </head>
 
-<body>
+<body class="internal">
 
     <section id="mast_header" class="full_section">
       <?php require_once("layouts/header.php"); ?>
-      <section id="banner" class="red_gradient full_section">
-        <ul id="main_sections" class="content">
-          <li>
-            <img src="public/images/logo.png" alt="">
-            <header class="custom_bold">Some Option</header>
-            <p>Some text about the option that is pretty dang cool.</p>
-            <a href="" title="" class="button black_button">View more</a>
-          </li>
-          <li>
-            <img src="public/images/logo.png" alt="">
-            <header class="custom_bold">Some Option</header>
-            <p>Some text about the option that is pretty dang cool.</p>
-            <a href="" title="" class="button black_button">View more</a>
-          </li>
-          <li>
-            <img src="public/images/logo.png" alt="">
-            <header class="custom_bold">Some Option</header>
-            <p>Some text about the option that is pretty dang cool.</p>
-            <a href="" title="" class="button black_button">View more</a>
-          </li>
-          <div class="clear"></div>
-        </ul>
-      </section>
       <div class="clear"></div>
     </section>
     
