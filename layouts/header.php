@@ -3,7 +3,7 @@
   <nav id="main_nav" class="silver_gradient round shadow">
     <ul>
       <li>
-        <a href="index.php" class="custom_bold">Home</a>
+        <a href="index.php" class="home custom_bold">Home</a>
       </li>
       <li>
         <a href="about.php" class="custom_bold">About Us</a>
