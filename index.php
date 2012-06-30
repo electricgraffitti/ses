@@ -17,21 +17,21 @@
         <ul id="main_sections" class="content">
           <li>
             <img src="public/images/logo.png" alt="">
-            <header class="custom_bold">Some Option</header>
-            <p>Some text about the option that is pretty dang cool.</p>
+            <header class="custom_bold">Small Engine</header>
+            <p>Our technicians provide top quality repairs for all major brands of small engines, as well as maintenance repairs to keep your job trouble free.</p>
             <a href="" title="" class="button black_button">View more</a>
           </li>
           <li>
             <img src="public/images/logo.png" alt="">
-            <header class="custom_bold">Some Option</header>
-            <p>Some text about the option that is pretty dang cool.</p>
+            <header class="custom_bold">Race Engines</header>
+            <p>Our high performance speed shop can provide you with the best custom engine modifications to help you get to the finish line.</p>
             <a href="" title="" class="button black_button">View more</a>
           </li>
           <li>
             <img src="public/images/logo.png" alt="">
-            <header class="custom_bold">Some Option</header>
-            <p>Some text about the option that is pretty dang cool.</p>
-            <a href="" title="" class="button black_button">View more</a>
+            <header class="custom_bold">Parts &#38; Service</header>
+            <p>We carry a complete line of replacement parts and maintenance products for all major brands of small engines.</p>
+            <a href="" title="" class="button black_button">Contact Us</a>
           </li>
           <div class="clear"></div>
         </ul>

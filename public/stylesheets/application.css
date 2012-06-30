@@ -5,7 +5,7 @@
 	height: 130px;
 }
 #banner {
-	height: 362px;
+	height: 385px;
 }
 #logo {
 	position: relative;
@@ -117,6 +117,7 @@ ul#main_sections li a:hover {
 }
 ul#main_sections li p {
 	padding: 5px 50px;
+	text-align: left;
 }
 .internal #content {
 	padding-top: 25px;

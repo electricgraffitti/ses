@@ -3,16 +3,16 @@
   <nav id="main_nav" class="silver_gradient round shadow">
     <ul>
       <li>
-        <a href="application.php" class="custom_bold">Link 1</a>
+        <a href="index.php" class="custom_bold">Home</a>
       </li>
       <li>
-        <a href="internal.php" class="custom_bold">Link 2</a>
+        <a href="about.php" class="custom_bold">About Us</a>
       </li>
       <li>
-        <a href="#" class="custom_bold">Link 3</a>
+        <a href="shop.php" class="custom_bold">Our Shop</a>
       </li>
       <li>
-        <a href="#" class="custom_bold">Link 4</a>
+        <a href="contact.php" class="custom_bold">Contact us</a>
       </li>
     </ul>
   </nav>
