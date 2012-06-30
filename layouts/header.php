@@ -9,7 +9,7 @@
         <a href="about.php" class="custom_bold">About Us</a>
       </li>
       <li>
-        <a href="shop.php" class="custom_bold">Our Shop</a>
+        <a href="service.php" class="custom_bold">Parts &#38; Service</a>
       </li>
       <li>
         <a href="contact.php" class="custom_bold">Contact us</a>

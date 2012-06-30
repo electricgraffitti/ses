@@ -17,7 +17,7 @@
     </section>
     
     <section id="content" class="full_section">
-      <?php require_once("views/index.php"); ?>
+      <?php require_once("views/about_content.php"); ?>
       <div class="clear"></div>
     </section>
 
