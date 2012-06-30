@@ -1,5 +1,5 @@
 <header id="header" class="content">
-	<h1 id="logo">Small Engine Sepcialties</h1>
+	<h1 id="logo">Small Engine Specialties</h1>
   <nav id="main_nav" class="silver_gradient round shadow">
     <ul>
       <li>

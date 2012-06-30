@@ -125,6 +125,11 @@ ul#main_sections li p {
 .internal #content {
 	padding-top: 25px;
 }
+article.main_text {
+	margin-top:30px;
+	font-size: 14px;
+	width: 620px;
+}
 .footer_logo {
 	background: url('../images/footer_logo.png') no-repeat;
 	width: 71px;
@@ -215,5 +220,22 @@ ul#main_sections li p {
 }
 .regular_content.content header.section_header {
 	border-bottom: 7px solid RGB(178, 77, 77);
+}
+/***************************************************SIDEBAR FORM****************/
+.regular_content.content header.border_none {
+	border-bottom: none;
+}
+div.error {
+position: relative;
+color: red;
+float: left;
+margin-left: 32px;
+margin-top: -3px;
+text-align: left;
+width: 440px;
+}
+div.form_field, div.form_field_select, div.form_field_text, div.form_field_button {
+	text-align: left;
+	margin-bottom: 10px;
 }
 

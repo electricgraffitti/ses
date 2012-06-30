@@ -8,7 +8,7 @@
 		    <p>
 		      1026 N 34th Avenue<br />
 		      Yakima, Wa. 98902<br />
-		      <a href="#">View map for directions</a>
+		      <a href="http://maps.google.com/maps?q=1026+N+34th+AVE++YAKIMA,+WA+98902&hl=en&hnear=1026+N+34th+Ave,+Yakima,+Washington+98902&gl=us&t=m&z=16">View map for directions</a>
 		    </p>
 		  </div>
 		  <div class="sub_header">Phone:</div>

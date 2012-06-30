@@ -46,7 +46,7 @@ figure { margin: 0; }
 form { margin: 0; }
 fieldset { border: 0; margin: 0; padding: 0; }
 
-label { cursor: pointer; }
+label { cursor: pointer;width:200px;float:left;text-align:left;}
 legend { border: 0; *margin-left: -7px; padding: 0; white-space: normal; }
 button, input, select, textarea { font-size: 100%; margin: 0; vertical-align: baseline; *vertical-align: middle; padding: 6px;}
 button, input { line-height: normal; }
@@ -181,7 +181,7 @@ p{margin:0px 0px 0px;line-height:18px;}
 
 /*************************************************************************************************************************************/
 /*************************************************************************************************** FORMS ***************************/
-form{position:relative;margin:10px 0px;padding:5px;}
+form{position:relative;margin:10px 0px;padding:5px 5px 5px 30px;}
 div.field{position:relative;margin:0px 10px 10px 0px;}
 div.field_section{position:relative;}
 div.field label{font-weight:700;font-weight:700;color:#444;font-size:16px;text-shadow:0px 1px 0px white;display:block;margin-bottom:3px;}
@@ -195,14 +195,50 @@ form .question h3{color:#555;font-size:120%;}
 .question .answer label{margin-left:20px;margin-top:-2px;position:relative;}
 .question{width:926px;padding:10px;background:#ddd;margin-bottom:5px;border-top:1px solid #888;border-right:1px solid #DDD;border-bottom:1px solid #EEE;border-left:1px solid #999;}
 .question .answer{width:100%;padding:5px 0px;}
-form .btn{height:37px;}
+form .btn{height:37px;
+border-top: 1px solid #96d1f8;
+background: #a80303; /* Old browsers */
+background: -moz-linear-gradient(top,  #a80303 0%, #6e0000 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#a80303), color-stop(100%,#6e0000)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #a80303 0%,#6e0000 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #a80303 0%,#6e0000 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #a80303 0%,#6e0000 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #a80303 0%,#6e0000 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a80303', endColorstr='#6e0000',GradientType=0 ); /* IE6-9 */
+
+padding: 6.5px 19px;
+-webkit-border-radius: 6px;
+-moz-border-radius: 6px;
+border-radius: 6px;
+-webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+-moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+box-shadow: rgba(0,0,0,1) 0 1px 0;
+text-shadow: rgba(0,0,0,.4) 0 1px 0;
+color: white;
+font-size: 18px;
+font-family: Georgia, serif;
+text-decoration: none;
+vertical-align: middle;}
+form .btn:hover {
+	border-top-color: #28597a;
+	color: #ccc;
+	background: #6e0000; /* Old browsers */
+	background: -moz-linear-gradient(top,  #6e0000 0%, #a80303 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#6e0000), color-stop(100%,#a80303)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #6e0000 0%,#a80303 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #6e0000 0%,#a80303 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #6e0000 0%,#a80303 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #6e0000 0%,#a80303 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6e0000', endColorstr='#a80303',GradientType=0 ); /* IE6-9 */
+	
+}
 form .back_link{display:block;margin-left:20px;margin-top:10px;}
 form .submit{width:926px;padding:10px;background:#ddd;margin-bottom:5px;border-top:1px solid #888;border-right:1px solid #DDD;border-bottom:1px solid #EEE;border-left:1px solid #999;}
 .question .column{position:relative;float:left;width:50%;}
 .question img{position:relative;float:right;margin-left:20px;max-height:270px;}
 .sub_text{width:325px;margin-right:20px;position:relative;float:left;}
 .checkbox_group,.inline_field{position:relative;float:left;padding-right:10px;margin-bottom:10px;}
-select{padding:3px;}
+select{padding:3px;width:250px;text-align:left;}
 
 /*************************************************************************************************************************************/
 /*************************************************************************************************** BUTTONS *************************/
