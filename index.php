@@ -15,19 +15,19 @@
       <section id="banner" class="red_gradient full_section">
         <ul id="main_sections" class="content">
           <li>
-            <img src="public/images/logo.png" alt="">
+            <img src="public/images/engine_repair.png" alt="">
             <header class="custom_bold">Engine Repair</header>
             <p>Our technicians provide top quality repairs for all major brands of small engines, as well as maintenance repairs to keep your job trouble free.</p>
             <a href="service.php" title="Service" class="button black_button">Get Service</a>
           </li>
           <li>
-            <img src="public/images/logo.png" alt="">
+            <img src="public/images/service.png" alt="">
             <header class="custom_bold">Parts &#38; Service</header>
             <p>We carry a complete line of replacement parts and maintenance products for all major brands of small engines.</p>
             <a href="service.php" title="Service" class="button black_button">Get Parts</a>
           </li>
           <li>
-            <img src="public/images/logo.png" alt="">
+            <img src="public/images/midget_engines.png" alt="">
             <header class="custom_bold">Midget Engines</header>
             <p>Our high performance speed shop can provide you with the best custom engine modifications to help you get to the finish line.</p>
             <a href="" title="" class="button black_button">Get Fast</a>
