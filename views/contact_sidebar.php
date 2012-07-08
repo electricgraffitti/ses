@@ -47,7 +47,7 @@ echo "";
 			</div>
 <div class="clear"></div>
 			<div class="form_field_button">
-      <input name="submit" type="submit" value="Contact" class="btn" />
+      <input name="submit" type="submit" value="Contact" class="btn red_button custom_regular" />
 			</div>
   </form>
 	<?php } ?>
