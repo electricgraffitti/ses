@@ -3,7 +3,7 @@
 		<img src="public/images/about_us.png" alt="About Small Engine Service">
 		<header class="custom_bold section_header">About Us</header>
 		<article>
-			<p>"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+			<p>Here at Small Engine Specialties, our experienced technicians can perform all types of service work on walk/riding mowers, string trimmers, trenchers, log splitters and just about any type of small equipment that has an engine. We also carry a complete line of over the counter parts for those of you that work on your own equipment as well. So whether your in need of an oil change, a complete overhaul, or just need to grab a quick part from our parts department, Small Engine Specialties is the place to get it done!
 			</p>
 			</article>
 	</section>
