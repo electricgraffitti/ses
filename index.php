@@ -31,7 +31,7 @@
             <img src="public/images/midget_engines.png" alt="">
             <header class="custom_bold">Midget Engines</header>
             <p>Our high performance speed shop can provide you with the best custom engine modifications to help you get to the finish line.</p>
-            <a href="" title="" class="button black_button">Get Fast</a>
+            <a href="midgets.php" title="" class="button black_button">Get Fast</a>
           </li>
           <div class="clear"></div>
         </ul>
