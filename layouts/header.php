@@ -17,7 +17,7 @@
     </ul>
   </nav>
   <div id="header_phone">
-  	Call us for your needs today. <span class="custom_bold">509.823.4253</span>
+  	Call us for your needs today. <span class="custom_bold">509.823.4254</span>
   </div>
   <div class="clear"></div>
 </header>

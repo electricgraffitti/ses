@@ -122,13 +122,36 @@ ul#main_sections li p {
 	padding: 5px 50px;
 	text-align: left;
 }
+#content {
+	padding-bottom: 10px;
+}
 .internal #content {
 	padding-top: 25px;
 }
-article.main_text {
-	margin-top:30px;
+.column2 img {
+	padding: 5px;
+	border: 1px solid #333;
+	margin: 10px 0px;
+}
+#posts article p, #posts article ul {
+	margin:10px 0px 20px;
+}
+#posts article p {
+	
 	font-size: 14px;
 	width: 620px;
+}
+#posts article ul li {
+	padding: 5px 0px;
+	list-style-position: inside;
+}
+#pricing_block {
+	text-align: left;
+}
+#pricing_block ul li {
+	list-style-type: none;
+	font-size:14px;
+	padding: 5px 0px;
 }
 .footer_logo {
 	background: url('../images/footer_logo.png') no-repeat;
@@ -188,6 +211,10 @@ article.main_text {
 	border-bottom: 1px solid #000000;
 	padding-bottom: 10px;
 }
+.fb-like {
+	margin-top: 10px;
+	color: #fff;
+}
 .facebook {
 	border-top: 1px solid #ffffff;
 	padding-top: 10px;
@@ -237,4 +264,9 @@ width: 440px;
 div.form_field, div.form_field_select, div.form_field_text, div.form_field_button {
 	text-align: left;
 	margin-bottom: 10px;
+}
+div.form_field, div.form_field_select, div.form_field_text {
+	position: relative;
+	float: left;
+	width: 290px;
 }

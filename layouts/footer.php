@@ -61,14 +61,7 @@
         </a>
       </div>
     </div>
-    <div class="logo_wrap facebook">
-      <div class="sub_content links_header"><a href="http://www.facebook.com/SESYAKIMA" target="_blank">Like us on Facebook:</a></div>
-      <div class="sub_logo">
-        <a href="http://www.facebook.com/SESYAKIMA" target="_blank">
-          <img src="public/images/facebook.png" alt="Facebook">
-        </a>
-      </div>
-    </div>
+    <div class="fb-like" data-href="http://www.sespecialties.com" data-send="false" data-width="284" data-show-faces="true" data-colorscheme="dark"></div>
 	</section>
 	
 </section>

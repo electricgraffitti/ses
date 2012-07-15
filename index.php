@@ -10,6 +10,7 @@
 </head>
 
 <body>
+    <?php require_once("layouts/facebook_script.php"); ?>
     <section id="mast_header" class="full_section">
       <?php require_once("layouts/header.php"); ?>
       <section id="banner" class="red_gradient full_section">

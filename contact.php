@@ -10,7 +10,7 @@
 </head>
 
 <body class="internal">
-
+  <?php require_once("layouts/facebook_script.php"); ?>
     <section id="mast_header" class="full_section">
       <?php require_once("layouts/header.php"); ?>
       <div class="clear"></div>
