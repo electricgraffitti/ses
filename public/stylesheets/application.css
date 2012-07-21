@@ -153,6 +153,9 @@ ul#main_sections li p {
 	font-size:14px;
 	padding: 5px 0px;
 }
+#midget_race_pictures ul li {
+	position: relative; float: left; list-style-type: none; margin-right: 3px;
+}
 .footer_logo {
 	background: url('../images/footer_logo.png') no-repeat;
 	width: 71px;
