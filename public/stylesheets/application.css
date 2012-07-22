@@ -262,6 +262,7 @@ margin-left: 32px;
 margin-top: -3px;
 text-align: left;
 width: 440px;
+margin-top: 8px\9;  /* IE 8 Error block fix */
 }
 div.form_field, div.form_field_select, div.form_field_text, div.form_field_button {
 	text-align: left;
