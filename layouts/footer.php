@@ -23,6 +23,7 @@
 	    <div class="sub_content creditcards">
 	     <img src="public/images/cc_logos.png" alt="Credit Card Logos">
 	    </div>
+	  </div>
 	</section>
 	<section class="column1">
 		<header class="custom_bold">Summer Hours</header>
