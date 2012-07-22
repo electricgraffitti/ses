@@ -9,7 +9,7 @@ echo "";
 ?>
   
   <?php if(isset($warning)){echo "$message";} ?>
-  <form method="post" action="sidebar_script.php" name="contact">
+  <form method="post" action="form_script.php" name="contact">
 			<div class="form_field">
 				<label>* Name:</label><br/>
     		<input name="name" type="text" value="<?php echo $name; ?>" size="30"/><br />

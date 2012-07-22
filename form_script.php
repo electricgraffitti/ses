@@ -194,7 +194,7 @@ if (!CheckTelephone($FTGtel, '[0-9]{3}\-[0-9]{3}\-[0-9]{4}', kMandatory)) {
 
 if ($validationFailed === true) {
 
- $fileErrorPage = 'index.php';
+ $fileErrorPage = 'contact.php';
 
  if (file_exists($fileErrorPage) === false) {
   echo '<html><head><title>Error</title></head><body>The error page: <b>' . $fileErrorPage. '</b> cannot be found on the server.</body></html>';
@@ -246,7 +246,7 @@ if ( $validationFailed === false ) {
   
   # Redirect user to success page
 
-header("");
+header("Location: http://www.ses.cube2media.com/index.php");
 
 }
 
