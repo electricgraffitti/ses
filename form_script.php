@@ -246,7 +246,7 @@ if ( $validationFailed === false ) {
   
   # Redirect user to success page
 
-header("Location: http://www.ses.cube2media.com/index.php");
+header("Location: http://www.ses.cube2media.com/thank_you.php");
 
 }
 
