@@ -13,4 +13,22 @@
       <div class="clear"></div>
     </section>
 	</aside>
+	<section id="midget_race_pictures" class="column2">
+		<article>
+			<ul>
+				<li>
+					<img src="public/images/midget1.png" alt="Small Engine Specialties Midget Racers">
+				</li>
+				<li>
+					<img src="public/images/midget3.png" alt="Small Engine Specialties Midget Racers">
+				</li>
+				<li>
+					<img src="public/images/midget4.png" alt="Small Engine Specialties Midget Racers">
+				</li>
+				<li>
+					<img src="public/images/midget5.png" alt="Small Engine Specialties Midget Racers">
+				</li>
+			</ul>
+		</article>
+	</section>
 </section>
